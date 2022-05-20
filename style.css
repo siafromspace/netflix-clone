@@ -317,6 +317,12 @@ img {
     margin-left: 1rem;
 }
 
+@media(max-height:500px) {
+    .showcase {
+        height: 150vh;
+    }
+}
+
 @media(max-width:960px) {
     .showcase {
         height: 70vh;
