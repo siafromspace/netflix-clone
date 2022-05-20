@@ -317,16 +317,16 @@ img {
     margin-left: 1rem;
 }
 
-@media(max-height:500px) {
+@media(max-height:700px) {
     .showcase {
-        height: 150vh;
+        height: 120vh;
     }
 }
 
 @media(max-width:960px) {
-    .showcase {
+    /* .showcase {
         height: 70vh;
-    }
+    } */
 
     .showcase-content {
         margin-top: 5rem;
