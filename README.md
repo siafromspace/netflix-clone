@@ -6,3 +6,4 @@ I created this with the help on Traversy Media on YouTube.
 While creating this, I implemented the used of CSS Grids, Tables, DOM and event listeners.
 
 It was indeed a fun project.
+PS: I still have some problems with the code on mobile screens landscape view.
